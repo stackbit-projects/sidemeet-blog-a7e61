@@ -1,0 +1,30 @@
+gems:
+  - jemoji
+  - jekyll-paginate
+title: Mediator
+description: |
+  A Jekyll theme - Medium inspired
+email: a-mail@mail.mail
+logo: /assets/images/df_logo.jpg
+float_logo: true
+cover: /assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg
+name: Dirk Fabisch
+author: Dirk Fabisch
+author_image: /assets/images/author.jpg
+paginate: 5
+url: ''
+baseurl: ''
+twitter_handle: '@dirkfabisch'
+social:
+  - icon: twitter
+    url: 'https://twitter.com/dirkfabisch'
+    desc: Follow me on twitter
+    share_url: 'http://twitter.com/share'
+    share_title: '?text='
+    share_link: '&amp;url='
+  - icon: github
+    url: 'https://github.com/dirkfabisch'
+    desc: Fork me on github
+    share_url: null
+    share_title: null
+    share_link: null
